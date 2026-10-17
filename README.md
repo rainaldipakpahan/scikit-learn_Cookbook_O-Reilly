@@ -1,4 +1,4 @@
-# scikit-learn Cookbook — Chapters 1–5
+# scikit-learn Cookbook — Chapters 1–8
 
 **Book:** *scikit-learn Cookbook, Third Edition: Over 80 recipes for machine learning in Python with scikit-learn*  
 **Author:** John Sukup  
